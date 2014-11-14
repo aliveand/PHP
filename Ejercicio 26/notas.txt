@@ -1,0 +1,4 @@
+tenemos que usar imagenes y ver el tema de las imagenes
+cramos un arcivo catcha.php donde creamos el capcha
+usamos sessiones y en otra pagina comparamos si el capcha que hemos creado coinncide  
+con el capcha que hemos recivido a traves de un formulario

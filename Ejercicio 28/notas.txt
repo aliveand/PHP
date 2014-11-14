@@ -1,0 +1,1 @@
+convertir el @ y el . a ascis y los restos de valores seran los qye hay que permitir

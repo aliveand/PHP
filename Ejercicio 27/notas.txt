@@ -1,0 +1,2 @@
+pedir el tamaño del arbol y el del tronco por formulario
+utilizar funciones str_pag
